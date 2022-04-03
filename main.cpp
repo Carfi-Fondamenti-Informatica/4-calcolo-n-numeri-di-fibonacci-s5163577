@@ -13,8 +13,8 @@ int main (){
             b=c;
             cout << c << endl;
         }
-    } else {
-        cout << "errore" << endl;
-    }
-    return 0;
+     } else {
+         cout << "errore" << endl;
+     }
+     return 0;
 }
