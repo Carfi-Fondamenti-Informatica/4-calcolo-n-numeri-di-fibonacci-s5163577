@@ -7,7 +7,7 @@ int main (){
     cin >> n;
     
     if (n>=2) {
-        for (i=1;i<=n,i++){
+        for (i=1;i<=n;i++){
             c=a+b;
             a=b;
             b=c;
